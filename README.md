@@ -1,2 +1,1 @@
-# AngryBirdsStage-4
-Created in VS Code
+# AngryBirdsStage4
